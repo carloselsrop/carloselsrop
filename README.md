@@ -27,4 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloselsrop&show_icons=true&theme=dark&locale=en&layout=compact" alt="carloselsrop" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloselsrop&show_icons=true&locale=en" alt="carloselsrop" /></p>
