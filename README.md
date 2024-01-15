@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlos Guzmán</h1>
 <h3 align="center">A passionate Front-end developer from El Salvador, eager to learn and live experiences that improve me as a developer and as a person.</h3>
 
-- 🔭 I’m currently working on [Nazyak Ecommerce](https://strong-profiterole-63077c.netlify.app/)
+- 🔭 I’m currently working on [Maraton El Salvador](https://maratonelsalvador.com/)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://angry-volhard-d9fa74.netlify.app/](https://angry-volhard-d9fa74.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://carloselsrop-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Nextjs, Vue**
+- 💬 Ask me about **React, Nextjs, React Native**
 
 - 📫 How to reach me **karlosmiguel144@gmail.com**
 
